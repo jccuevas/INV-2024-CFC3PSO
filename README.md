@@ -1,3 +1,5 @@
+This repository holds Matlab code for the bloew referenced reaearch paper
+
 # Optimizing Rule Weights to Improve FRBS Clustering in Wireless Sensor Networks
 
 Jose-Enrique Muñoz-Exposito
@@ -19,3 +21,4 @@ Creative Commons Attribution (CC BY) license [(https://creativecommons.org/licen
 ## Disclaimer
 
 This software is provided “as is”, without any express or implied warranties. No maintenance, updates, or technical support are provided. Use of the software is entirely at the user’s own risk. In no event shall the developer be held liable for any direct, indirect, incidental, or consequential damages arising from the use of, or inability to use, this software.
+
