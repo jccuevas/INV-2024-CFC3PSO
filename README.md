@@ -1,4 +1,4 @@
-#CFC3PSO clustering algorithm
+# CFC3PSO clustering algorithm
 This repository holds Matlab code for the bloew referenced reaearch paper Optimizing Rule Weights to Improve FRBS Clustering in Wireless Sensor Networks
 
 > Muñoz-Exposito, J.-E., Yuste-Delgado, A.-J., Triviño-Cabrera, A., & Cuevas-Martinez, J.-C. (2024). Optimizing Rule Weights to Improve FRBS Clustering in Wireless Sensor Networks. Sensors, 24(17), 5548. [https://doi.org/10.3390/s24175548](https://doi.org/10.3390/s24175548)
