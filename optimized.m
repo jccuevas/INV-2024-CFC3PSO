@@ -133,6 +133,7 @@ kb =fis_fnd;
 
 rotacion = ones(1,n);
 total_ch=0;%pongo uno para evitar la división por cero. TAmpoco influye mucho
+rmax=10000;
 
 for r=0:rmax
 

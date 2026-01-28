@@ -4,7 +4,7 @@ EBx=100
 EBy=0
 
 Eminima=0.01
-n=250
+n=100
 
 load escenario.mat
 
